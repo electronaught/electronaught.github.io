@@ -41,3 +41,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.attribution{
+    color:lightred;
+    font-size:10px;
+    font-style: italic;
+}
