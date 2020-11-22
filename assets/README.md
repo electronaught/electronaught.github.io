@@ -1,4 +1,5 @@
 # How to add assets to your blog posts
+
 To add and access supplemental blogpost material:
 
 1. Create and name a folder for your specific post (Ex: EN116, as seen here)
