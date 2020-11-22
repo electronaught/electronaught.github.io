@@ -9,7 +9,7 @@ Inside of the markdown file, be sure to include the following information at the
 ```
 ---
 layout: post
-title: "EN#1 - Digital Synthesiser (Introduction)"
+title: "your title in quotes" -- Example :: "EN#1 - Digital Synthesiser (Introduction)"
 date: 1972-01-01
 ---
 ```
